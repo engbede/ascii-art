@@ -98,7 +98,7 @@ The application follows these steps:
 Clone the repository:
 
 ```bash
-git clone https://github.com/nemmanuel/ascii-art.git
+git clone https://github.com/engbede/ascii-art.git
 ```
 
 Navigate into the project directory:
