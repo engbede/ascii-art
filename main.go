@@ -15,7 +15,7 @@ func main() {
 	bannerFile := "banner/standard.txt"
 
 	if len(os.Args) == 3 {
-		bannerFile = "banner/" + os.Args[2] + ".txt"
+		bannerFile = "banner/" + os.Args[2]
 	}
 
 	banner, err := loadBanner(bannerFile)
